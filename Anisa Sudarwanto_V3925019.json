@@ -1,0 +1,668 @@
+{
+    "data_lokasi": [
+        {
+            "id_lokasi"  : 1,
+            "nama_lokasi": "Gedung DPR/MPR RI",
+            "latitude"   : -6.206333,
+            "longitude"  : 106.666664,
+            "waktu"      : "2025-08-25T12:30:00Z"
+        },
+        {
+            "id_lokasi"  : 2,
+            "nama_lokasi": "DPRD Kalimantan Tengah",
+            "latitude"   : -2.205247,
+            "longitude"  : 113.920380,
+            "waktu"      : "2025-09-01T13:00:00Z"
+        },
+        {
+            "id_lokasi"  : 3,
+            "nama_lokasi": "DPRD Sulawesi Tengah",
+            "latitude"   : -0.890755,
+            "longitude"  : 119.869584,
+            "waktu"      : "2025-09-01T09:00:00Z"
+        },
+        {
+            "id_lokasi"  : 4,
+            "nama_lokasi": "DPRD Palu",
+            "latitude"   : -0.896621,
+            "longitude"  : 119.871231,
+            "waktu"      : "2025-09-01T09:00:00Z"
+        },
+        {
+            "id_lokasi"  : 5,
+            "nama_lokasi": "DPRD Kotawaringin Timur",
+            "latitude"   : -2.538199,
+            "longitude"  : 112.940323,
+            "waktu"      : "2025-09-01T08:00:00Z"
+        },
+        {
+            "id_lokasi"  : 6,
+            "nama_lokasi": "DPRD Aceh",
+            "latitude"   : 5.557071,
+            "longitude"  : 95.326750,
+            "waktu"      : "2025-09-01T14:00:00Z"
+        },
+        {
+            "id_lokasi"  : 7,
+            "nama_lokasi": "DPRD Kalimantan Selatan",
+            "latitude"   : -3.322137,
+            "longitude"  : 114.591573,
+            "waktu"      : "2025-09-01T10:00:00Z"
+        },
+        {
+            "id_lokasi"  : 8,
+            "nama_lokasi": "DPRD Banten",
+            "latitude"   : -6.169955,
+            "longitude"  : 106.162420,
+            "waktu"      : "2025-09-01T10:00:00Z"
+        },
+        {
+            "id_lokasi"  : 9,
+            "nama_lokasi": "DPRD Lampung",
+            "latitude"   : -5.352235,
+            "longitude"  : 105.278960,
+            "waktu"      : "2025-09-01T10:00:00Z"
+        },
+        {
+            "id_lokasi"  : 10,
+            "nama_lokasi": "DPRD Sulawesi Utara",
+            "latitude"   : 1.491564,
+            "longitude"  : 124.885636,
+            "waktu"      : "2025-09-01T10:00:00Z"
+        },
+        {
+            "id_lokasi"  : 11,
+            "nama_lokasi": "DPRD Kalimantan Timur",
+            "latitude"   : -0.501008,
+            "longitude"  : 117.110581,
+            "waktu"      : "2025-09-01T10:00:00Z"
+        },
+        {
+            "id_lokasi"  : 12,
+            "nama_lokasi": "DPRD Solo",
+            "latitude"   : -7.548735,
+            "longitude"  : 110.782767,
+            "waktu"      : "2025-09-01T13:00:00Z"
+        }, 
+        {
+            "id_lokasi"  : 13,
+            "nama_lokasi": "DPRD Kepulauan Riau",
+            "latitude"   : 0.872861,
+            "longitude"  : 104.464061,
+            "waktu"      : "2025-09-01T10:00:00Z"
+        }, 
+        {
+            "id_lokasi"  : 14,
+            "nama_lokasi": "DPRD Kalimantan Barat",
+            "latitude"   : -0.060684,
+            "longitude"  : 109.357248,
+            "waktu"      : "2025-09-01T13:00:00Z"
+        }, 
+        {
+            "id_lokasi"  : 15,
+            "nama_lokasi": "DPRD Sumatera Selatan",
+            "latitude"   : -2.938766,
+            "longitude"  : 104.741925,
+            "waktu"      : "2025-09-01T13:00:00Z"
+        }, 
+        {
+            "id_lokasi"  : 16,
+            "nama_lokasi": "DPRK Aceh Tengah",
+            "latitude"   : 4.621893,
+            "longitude"  : 96.844926,
+            "waktu"      : "2025-09-01T09:00:00Z"
+        }, 
+        {
+            "id_lokasi"  : 17,
+            "nama_lokasi": "DPRD Sumatera Barat",
+            "latitude"   : -0.906314,
+            "longitude"  : 100.351519,
+            "waktu"      : "2025-09-01T14:00:00Z"
+        }, 
+        {
+            "id_lokasi"  : 18,
+            "nama_lokasi": "DPRD Batam",
+            "latitude"   : 1.126622,
+            "longitude"  : 104.055298,
+            "waktu"  : "2025-09-01T13:00:00Z"
+        }, 
+        {
+            "id_lokasi"  : 19,
+            "nama_lokasi": "DPRD Madiun",
+            "latitude"   : -7.541693,
+            "longitude"  : 111.630646,
+            "waktu"      : "2025-08-30T14:35:00Z"
+        },
+        {
+            "id_lokasi"  : 20,
+            "nama_lokasi": "Gedung Grahadi Surabaya",
+            "latitude"   : -7.262780,
+            "longitude"  : 112.743469,
+            "waktu"      : "2025-08-29T13:00:00Z"
+        }, 
+        {
+            "id_lokasi"  : 21,
+            "nama_lokasi": "Polda Jawa Tengah",
+            "latitude"   : -6.996382,
+            "longitude"  : 110.418494,
+            "waktu"  : "2025-08-29T12:30:00Z"
+        }, 
+        {
+            "id_lokasi"  : 22,
+            "nama_lokasi": "DPRD Jambi",
+            "latitude"   : -1.604404,
+            "longitude"  : 103.582321,
+            "waktu"      : "2025-08-29T13:00:00Z"
+        },
+        {
+            "id_lokasi"  : 23,
+            "nama_lokasi": "Universitas Islam Bandung",
+            "latitude"   : -6.903410,
+            "longitude"  : 107.607864,
+            "waktu"      : "2025-09-01T13:00:00Z"
+        }, 
+        {
+            "id_lokasi"  : 24,
+            "nama_lokasi": "Mapolda Bali",
+            "latitude"   : -8.648735,
+            "longitude"  : 115.225213,
+            "waktu"  : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_lokasi"  : 25,
+            "nama_lokasi": "Polda Papua",
+            "latitude"   : -2.534718,
+            "longitude"  : 140.706973,
+            "waktu"      : "2025-09-01T13:00:00Z"
+        }
+        
+    ], 
+    "data_visual":[
+        {
+            "id_kamera" : 1,
+            "lokasi"    : "Gedung DPR/MPR RI", 
+            "id_object" : "M1", 
+            "kategori"  : "Aman",
+            "gambar"    : "Demo di gedung DPR.jpg",
+            "waktu"     : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_kamera" : 2,
+            "lokasi"    : "Gedung DPRD Sumatera Utara", 
+            "id_object" : "M2", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Demo di gedung DPRD Sumatera Utara.jpg",
+            "waktu"     : "2025-08-25T19:00:00Z"
+        },
+        {
+            "id_kamera" : 3,
+            "lokasi"    : "Gedung DPRD Kalimantan Tengah", 
+            "id_object" : "M3", 
+            "kategori"  : "Aman",
+            "gambar"    : "Demo di gedung DPRD Kalimantan Tengah.jpg",
+            "waktu" : "2025-09-01T13:00:00Z"
+        },
+        {
+            "id_kamera" : 4,
+            "lokasi"    : "Gedung DPRD Kalimantan Selatan", 
+            "id_object" : "M4", 
+            "kategori"  : "Aman",
+            "gambar"    : "Demo di gedung DPRD Kalimantan Selatan.jpg",
+            "waktu"     : "2025-09-01T13:00:00Z"
+        },
+        {
+            "id_kamera" : 5,
+            "lokasi"    : "Gedung DPRD Kalimantan Timur", 
+            "id_object" : "M5", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Kondisi demo di depan DPRD Kaltim.jpg",
+            "waktu"     : "2025-09-01T17:00:00Z"
+        },
+        {
+            "id_kamera" : 6,
+            "lokasi"    : "Gedung DPRD Kalimantan Barat", 
+            "id_object" : "M6", 
+            "kategori"  : "Aman",
+            "gambar"    : "Gubernur Kalimantan Barat ikut temui massa aksi.jpg",
+            "waktu" : "2025-09-01T13:00:00Z"
+        },
+        {
+            "id_kamera" : 7,
+            "lokasi"    : "Gedung DPRD Sulawesi Barat", 
+            "id_object" : "M7", 
+            "kategori"  : "Aman",
+            "gambar"    : "Gubernur Sulawesi Barat Jamin Keamanan Unjuk Rasa Damai.jpg",
+            "waktu"     : "2025-09-03T13:00:00Z"
+        },
+        {
+            "id_kamera" : 8,
+            "lokasi"    : "Gedung DPRD Sulawesi Selatan", 
+            "id_object" : "M8", 
+            "kategori"  : "Aman",
+            "gambar"    : "Kondisi demo di gedung DPRD Sulawesi Selatan.jpg",
+            "waktu"     : "2025-08-30T16:24:00Z"
+        },
+        {
+            "id_kamera" : 9,
+            "lokasi"    : "Kantor Gubernur Sulawesi Utara", 
+            "id_object" : "M9", 
+            "kategori"  : "Aman",
+            "gambar"    : "Gubernur Sulut Yulius Selvanus saat menerima para demonstrasi.jpg",
+            "waktu" : "2025-09-02T13:00:00Z"
+        },
+        {
+            "id_kamera" : 10,
+            "lokasi"    : "Gedung Grahadi Surabaya", 
+            "id_object" : "M10", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Kondisi demo yang ricuh di depan gedung Grahadi Surabaya.jpg",
+            "waktu"     : "2025-08-30T16:00:00Z"
+        },
+        {
+            "id_kamera" : 11,
+            "lokasi"    : "Gedung DPRD Papua", 
+            "id_object" : "M11", 
+            "kategori"  : "Aman",
+            "gambar"    : "Kondisi demo yang kondusif di depan gedung DPRD Papua.jpg",
+            "waktu"     : "2025-09-01T11.00:00Z"
+        },
+        {
+            "id_kamera" : 12,
+            "lokasi"    : "Gedung DPRD Sumatera Barat", 
+            "id_object" : "M12", 
+            "kategori"  : "Aman",
+            "gambar"    : "Kondisi demo di depan gedung DPRD Sumatera Barat.jpg",
+            "waktu" : "2025-08-30T13:00:00Z"
+        },
+        {
+             "id_kamera" : 13,
+            "lokasi"    : "Gedung DPRD Sumatera Selatan", 
+            "id_object" : "M13", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Demo Tolak Tambang Emas Ilegal Muratara Ricuh, Warga Blokir Jalan.jpg",
+            "waktu"     : "2025-07-11T13:00:00Z"
+        }, 
+        {
+            "id_kamera" : 14,
+            "lokasi"    : "Di depan Polresta Malang", 
+            "id_object" : "M14", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Kondisi demo di depan Polresta Malang yang ricuh.jpg",
+            "waktu"     : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_kamera" : 15,
+            "lokasi"    : "Gedung DPRD di Kota Madiun", 
+            "id_object" : "M15", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Kasus Demo Ricuh di DPRD Madiun: 91 Orang Diamankan, 9 Jadi Tersangka.jpg",
+            "waktu" : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_kamera" : 16,
+            "lokasi"    : "Gedung DPRD Jawa Barat", 
+            "id_object" : "M16", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Kondisi demo di depan Gedung DPRD Jawa Barat.jpg",
+            "waktu"     : "2025-08-30T15:00:00Z"
+        }, 
+        {
+            "id_kamera" : 17,
+            "lokasi"    : "Gedung DPRD Solo", 
+            "id_object" : "M17", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Kronologi Demo Ricuh di Solo.jpg",
+            "waktu"     : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_kamera" : 18,
+            "lokasi"    : "Gedung DPRD Bali", 
+            "id_object" : "M18", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Buntut Demo Ricuh,Polda Bali Tetapkan 14 Tersangka.Hanya Satu Orang Luar Bali.jpg",
+            "waktu"     : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_kamera" : 19,
+            "lokasi"    : "Gedung DPRD Lampung", 
+            "id_object" : "M19", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Ricuh!Aksi Demo Petani Singkong di Gedung DPRD Lampung.jpg",
+            "waktu"     : "2025-05-05T14:37:00Z"
+        }, 
+        {
+            "id_kamera" : 20,
+            "lokasi"    : "Mapolda Jawa Tengah", 
+            "id_object" : "M20", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Demo Lanjutan di Semarang Ricuh, Polisi Tangkap 95 Orang.jpg",
+            "waktu"     : "2025-08-30T15:00:00Z"
+        }, 
+        {
+            "id_kamera" : 21,
+            "lokasi"    : "Polda Daerah Istimewa Yogyakarta", 
+            "id_object" : "M21", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Demo Ricuh di Polda DIY,Aliansi Jogja Memanggil:Luapan Amarah Rakyat.jpg",
+            "waktu"     : "2025-08-30T17:00:00Z"
+        }, 
+        {
+            "id_kamera" : 22,
+            "lokasi"    : "Jl.Jenderal Ahmad Yani,CIceri,Kota Serang,Banten.", 
+            "id_object" : "M22", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Demo di Serang Ricuh: Jalan Jenderal Ahmad Yani Diblokade, 1 Pos Polisi Dibakar.jpg",
+            "waktu"     : "2025-08-30T20:31:00Z"
+        }, 
+        {
+            "id_kamera" : 23,
+            "lokasi"    : "Gedung DPRD Kota Gorontalo", 
+            "id_object" : "M23", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Demo Mahasiswa di Gorontalo berakhir ricuh.jpg",
+            "waktu"     : "2025-09-01T18:24:00Z"
+        }, 
+        {
+            "id_kamera" : 24,
+            "lokasi"    : "Gedung DPRD Maluku", 
+            "id_object" : "M24", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Demo Ricuh,Sejumlah Pimpinan DPRD Maluku Terkena Lemparan.jpg",
+            "waktu"     : "2025-09-01T15:47:00Z"
+        }, 
+        {
+            "id_kamera" : 25,
+            "lokasi"    : "Gedung DPRA,Banda Aceh", 
+            "id_object" : "M25", 
+            "kategori"  : "Tidak Aman",
+            "gambar"    : "Aksi demonstrasi di gedung DPRA tiba-tiba ricuh.jpg",
+            "waktu"     : "2025-09-01T21:44:00Z"
+        }
+    ], 
+    "data_cctv":[
+        {
+            "id_cctv"   : 1,
+            "lokasi"    : "Gedung DPR/MPR RI", 
+            "waktu"     : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_cctv"   : 2,
+            "lokasi"    : "Gedung DPRD Sumatera Utara", 
+            "waktu"     : "2025-08-25T19:00:00Z"
+        },
+        {
+            "id_cctv"   : 3,
+            "lokasi"    : "Gedung DPRD Kalimantan Tengah", 
+            "waktu"     : "2025-09-01T13:00:00Z"
+        },
+        {
+            "id_cctv"   : 4,
+            "lokasi"    : "Gedung DPRD Kalimantan Selatan", 
+            "waktu"     : "2025-09-01T13:00:00Z"
+        },
+        {
+            "id_cctv"   : 5,
+            "lokasi"    : "Gedung DPRD Kalimantan Timur", 
+            "waktu"     : "2025-09-01T17:00:00Z"
+        },
+        {
+            "id_cctv"   : 6,
+            "lokasi"    : "Gedung DPRD Kalimantan Barat", 
+            "waktu"     : "2025-09-01T13:00:00Z"
+        },
+        {
+            "id_cctv"   : 7,
+            "lokasi"    : "Gedung DPRD Sulawesi Barat", 
+            "waktu"     : "2025-09-03T13:00:00Z"
+        },
+        {
+            "id_cctv"   : 8,
+            "lokasi"    : "Gedung DPRD Sulawesi Selatan", 
+            "waktu"     : "2025-08-30T16:24:00Z"
+        },
+        {
+            "id_cctv"   : 9,
+            "lokasi"    : "Kantor Gubernur Sulawesi Utara", 
+            "waktu"     : "2025-09-02T13:00:00Z"
+        },
+        {
+            "id_cctv"   : 10,
+            "lokasi"    : "Gedung Grahadi Surabaya", 
+            "waktu"     : "2025-08-30T16:00:00Z"
+        },
+        {
+            "id_cctv"   : 11,
+            "lokasi"    : "Gedung DPRD Papua", 
+            "waktu"     : "2025-09-01T11.00:00Z"
+        },
+        {
+            "id_cctv"   : 12,
+            "lokasi"    : "Gedung DPRD Sumatera Barat", 
+            "waktu"     : "2025-08-30T13:00:00Z"
+        },
+        {
+            "id_cctv"   : 13,
+            "lokasi"    : "Gedung DPRD Sumatera Selatan", 
+            "waktu"     : "2025-07-11T13:00:00Z"
+        }, 
+        {
+            "id_cctv"   : 14,
+            "lokasi"    : "Di depan Polresta Malang", 
+            "waktu"     : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_cctv"   : 15,
+            "lokasi"    : "Gedung DPRD di Kota Madiun", 
+            "waktu"     : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_cctv"   : 16,
+            "lokasi"    : "Gedung DPRD Jawa Barat", 
+            "waktu"     : "2025-08-30T15:00:00Z"
+        }, 
+        {
+            "id_cctv"   : 17,
+            "lokasi"    : "Gedung DPRD Solo", 
+            "waktu"     : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_cctv"   : 18,
+            "lokasi"    : "Gedung DPRD Bali", 
+            "waktu"     : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_cctv"   : 19,
+            "lokasi"    : "Gedung DPRD Lampung", 
+            "waktu"     : "2025-05-05T14:37:00Z"
+        }, 
+        {
+            "id_cctv"   : 20,
+            "lokasi"    : "Mapolda Jawa Tengah", 
+            "waktu"     : "2025-08-30T15:00:00Z"
+        }, 
+        {
+            "id_cctv"   : 21,
+            "lokasi"    : "Polda Daerah Istimewa Yogyakarta", 
+            "waktu"     : "2025-08-30T17:00:00Z"
+        }, 
+        {
+            "id_cctv"   : 22,
+            "lokasi"    : "Jl.Jenderal Ahmad Yani,CIceri,Kota Serang,Banten.", 
+            "waktu"     : "2025-08-30T20:31:00Z"
+        }, 
+        {
+            "id_cctv"   : 23,
+            "lokasi"    : "Gedung DPRD Kota Gorontalo", 
+            "waktu"     : "2025-09-01T18:24:00Z"
+        }, 
+        {
+            "id_cctv"   : 24,
+            "lokasi"    : "Gedung DPRD Maluku", 
+            "waktu"     : "2025-09-01T15:47:00Z"
+        }, 
+        {
+            "id_cctv"   : 25,
+            "lokasi"    : "Gedung DPRA,Banda Aceh", 
+            "waktu"     : "2025-09-01T21:44:00Z"
+        }
+    ], 
+    "data_laporan_masyarakat":[
+
+        {
+            "id_laporan"    : 1,
+            "lokasi"        : "Gedung DPR/MPR RI", 
+            "isi_laporan"   : "Aksi demo berlangsung damai tanpa insiden.", 
+            "waktu"         : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_laporan"    : 2,
+            "lokasi"        : "Gedung DPRD Sumatera Utara", 
+            "isi_laporan"   : "Beberapa massa mulai melempar batu ke arah petugas.", 
+            "waktu"         : "2025-08-25T19:00:00Z"
+        },
+        {
+            "id_laporan"    : 3,
+            "lokasi"        : "Gedung DPRD Kalimantan Tengah", 
+            "isi_laporan"   : "Massa aksi berhasil bertemu dengan perwakilan DPRD dan menyampaikan aspirasi mereka.", 
+            "waktu"         : "2025-09-01T13:00:00Z"
+        },
+        {
+            "id_laporan"    : 4,
+            "lokasi"        : "Gedung DPRD Kalimantan Selatan", 
+            "isi_laporan"   : "Aksi berjalan lancar dengan pengamanan ketat dari aparat kepolisian.", 
+            "waktu"         : "2025-09-01T13:00:00Z"
+        },
+        {
+            "id_laporan"    : 5,
+            "lokasi"        : "Gedung DPRD Kalimantan Timur", 
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam gedung DPRD.", 
+            "waktu"         : "2025-09-01T17:00:00Z"
+        },
+        {
+            "id_laporan"    : 6,
+            "lokasi"        : "Gedung DPRD Kalimantan Barat", 
+            "isi_laporan"   : "Gubernur turun tangan untuk menenangkan massa aksi.", 
+            "waktu"         : "2025-09-01T13:00:00Z"
+        },
+        {
+            "id_laporan"    : 7,
+            "lokasi"        : "Gedung DPRD Sulawesi Barat", 
+            "isi_laporan"   : "Aksi berjalan damai dengan dialog antara mahasiswa dan pemerintah daerah.", 
+            "waktu"         : "2025-09-03T13:00:00Z"
+        },
+        {
+            "id_laporan"    : 8,
+            "lokasi"        : "Gedung DPRD Sulawesi Selatan", 
+            "isi_laporan"   : "Massa aksi membubarkan diri setelah aspirasi mereka diterima.", 
+            "waktu"         : "2025-08-30T16:24:00Z"
+        },
+        {
+            "id_laporan"    : 9,
+            "lokasi"        : "Kantor Gubernur Sulawesi Utara", 
+            "isi_laporan"   : "Gubernur menerima perwakilan demonstran untuk berdialog.", 
+            "waktu"         : "2025-09-02T13:00:00Z"
+        },
+        {
+            "id_laporan"    : 10,
+            "lokasi"        : "Gedung Grahadi Surabaya", 
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam gedung.", 
+            "waktu"         : "2025-08-30T16:00:00Z"
+        }, 
+        {
+            "id_laporan"    : 11,
+            "lokasi"        : "Gedung DPRD Papua", 
+            "isi_laporan"   : "Aksi berlangsung damai dengan pengamanan ketat dari aparat kepolisian.", 
+            "waktu"         : "2025-09-01T11.00:00Z"
+        }, 
+        {
+            "id_laporan"    : 12,
+            "lokasi"        : "Gedung DPRD Sumatera Barat", 
+            "isi_laporan"   : "Massa aksi berhasil bertemu dengan perwakilan DPRD dan menyampaikan aspirasi mereka.",
+            "waktu"         : "2025-08-30T13:00:00Z"
+        },
+          {
+            "id_laporan"    : 13,
+            "lokasi"        : "Gedung DPRD Sumatera Selatan", 
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam gedung DPRD.",
+            "waktu"         : "2025-07-11T13:00:00Z"
+        }, 
+        {
+            "id_laporan"    : 14,
+            "lokasi"        : "Di depan Polresta Malang", 
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam Polresta Malang.",
+            "waktu"         : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_laporan"    : 15,
+            "lokasi"        : "Gedung DPRD di Kota Madiun",
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam gedung DPRD Madiun.", 
+            "waktu"         : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_laporan"    : 16,
+            "lokasi"        : "Gedung DPRD Jawa Barat",
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam gedung DPRD Jawa Barat.", 
+            "waktu"         : "2025-08-30T15:00:00Z"
+        }, 
+        {
+            "id_laporan"    : 17,
+            "lokasi"        : "Gedung DPRD Solo", 
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam gedung DPRD Solo.",
+            "waktu"         : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_laporan"    : 18,
+            "lokasi"        : "Gedung DPRD Bali", 
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam gedung DPRD Bali.",
+            "waktu"         : "2025-08-30T13:00:00Z"
+        }, 
+        {
+            "id_laporan"    : 19,
+            "lokasi"        : "Gedung DPRD Lampung", 
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam gedung DPRD Lampung.",
+            "waktu"         : "2025-05-05T14:37:00Z"
+        }, 
+        {
+            "id_laporan"    : 20,
+            "lokasi"        : "Mapolda Jawa Tengah", 
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam Mapolda Jawa Tengah.",
+            "waktu"         : "2025-08-30T15:00:00Z"
+        }, 
+        {
+            "id_laporan"    : 21,
+            "lokasi"        : "Polda Daerah Istimewa Yogyakarta",
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam Polda DIY.",
+            "waktu"         : "2025-08-30T17:00:00Z"
+        }, 
+        {
+            "id_laporan"    : 22,
+            "lokasi"        : "Jl.Jenderal Ahmad Yani,CIceri,Kota Serang,Banten.",
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam gedung DPRD Banten.",
+            "waktu"         : "2025-08-30T20:31:00Z"
+        }, 
+        {
+            "id_laporan"    : 23,
+            "lokasi"        : "Gedung DPRD Kota Gorontalo",
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam gedung DPRD Gorontalo.",
+            "waktu"         : "2025-09-01T18:24:00Z"
+        }, 
+        {
+            "id_laporan"    : 24,
+            "lokasi"        : "Gedung DPRD Maluku",
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam gedung DPRD Maluku.",
+            "waktu"         : "2025-09-01T15:47:00Z"
+        }, 
+        {
+            "id_laporan"    : 25,
+            "lokasi"        : "Gedung DPRA,Banda Aceh", 
+            "isi_laporan"   : "Kericuhan terjadi saat massa mencoba memaksa masuk ke dalam gedung DPRA Banda Aceh.",
+            "waktu"         : "2025-09-01T21:44:00Z"
+        }
+       
+
+    ]
+}
+
+
+   
+
